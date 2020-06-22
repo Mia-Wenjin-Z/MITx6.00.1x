@@ -1,4 +1,24 @@
-# Lec1 - Python basics
+# Lec1
+
+## Computer programming Basics
+
+**A stored program** computer is designed to run any computation, by interpreting a sequence of program instructions that are read into it.
+
+
+
+**A fixed program computer** is designed to compute precisely one computation, such as a square root, or the trajectory of a missile.
+
+
+
+**A program counter** points the computer to the next instruction to execute in the program.
+
+
+
+**6 primitive operations by Turing** : left, right, scan, read, stop
+
+## Python Basics
+
+
 
 * Objects
 
