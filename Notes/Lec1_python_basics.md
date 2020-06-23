@@ -29,6 +29,7 @@
     * bool - True / False
     * NoneType - None
   * Non-scalars
+    * String
 
 * Operators
 
