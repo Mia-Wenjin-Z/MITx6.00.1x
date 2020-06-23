@@ -5,9 +5,9 @@
 * input(""..."")
   * **input type is interpreted as a STRING!!**
 
-![image-20200622183614320](/Users/miawenjinzhang/Library/Application Support/typora-user-images/image-20200622183614320.png)
+![image-20200622214734819](assets/img/readme/image-20200622214734819.png)
 
-![image-20200622183825650](/Users/miawenjinzhang/Library/Application Support/typora-user-images/image-20200622183825650.png)
+![image-20200622214747713](assets/img/readme/image-20200622214747713.png)
 
 * print
 
