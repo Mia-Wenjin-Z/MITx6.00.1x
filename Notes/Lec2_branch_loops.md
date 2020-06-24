@@ -29,6 +29,11 @@ while [con] :
 for x in range (n): 
 	do something ... x - [0, n)
 
+for index in range(len(string)):
+	do something
+
+for char in string:
+	do something                        
                         
 range(start, stop ,step) [start, end) += step
 eg.
