@@ -33,6 +33,7 @@ for x in range (n):
 range(start, stop ,step) [start, end) += step
 eg.
 range(5, 11, 2)  -> 5, 7, 9  
+-1 indicates negative steps
                           
 4. break : immediately jump out of the current loop
 5. continue
