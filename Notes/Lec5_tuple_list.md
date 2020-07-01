@@ -19,7 +19,7 @@
 
 * mutable with
 
-  * `.add()` element
+  * `.append()` element (`add()` is used for set, not list)
   * `.extend(List2)` another list
   * `.pop()`  remove last
   * `.remove(val)`  remove the first `val`
