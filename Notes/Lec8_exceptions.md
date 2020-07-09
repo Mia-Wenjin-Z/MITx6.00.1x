@@ -42,5 +42,5 @@ finally:
     return sum(grades) / len(grades)
   ```
 
-* Usually used 
+* Usually used to check func inputs / outputs
 
