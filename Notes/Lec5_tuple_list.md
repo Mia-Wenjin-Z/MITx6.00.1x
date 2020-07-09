@@ -28,9 +28,10 @@
   * `List1 + List2` -> **return a copy!!!**
   * `sorted(List)` -> **return a copy!!**
   * `List.sort()` -> **sort list** (i.e., `Arrays.sort() or Collections.sort()` in java)
-
-  A bit more about `del`: 
-
+* `.reverse()`
+  
+A bit more about `del`: 
+  
   ```python
    a=1       # 对象 1 被 变量a引用，对象1的引用计数器为1
    b=a       # 对象1 被变量b引用，对象1的引用计数器加1 = 2
