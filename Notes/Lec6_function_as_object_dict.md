@@ -48,7 +48,7 @@ for val in map(min, [1, 28, 36], [2, 57, 9]):
   * Iterate  `grades.keys()` / `grades.values()`
 * Key
   * Better not float
-  * Fixed type
+  * Flexible type
 * Example : fibonacci with memorization
 
 ![image-20200630131904314](assets/img/readme/image-20200630131904314.png)
